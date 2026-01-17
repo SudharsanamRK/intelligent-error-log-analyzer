@@ -47,7 +47,7 @@ This project automatically:
 ---
 
 ## Folder Structure
-
+```bash
 intelligent-error-log-analyzer/
   backend/
     app/
@@ -94,7 +94,7 @@ intelligent-error-log-analyzer/
 
   .gitignore
   README.md
-
+```
 ## Output Screens
 
 Upload Page
